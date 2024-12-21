@@ -1,2 +1,2 @@
 # Dreamce-store
-il s'agit d'un de vente en ligne de chausure
+il s'agit d'un site de vente en ligne de chausures
